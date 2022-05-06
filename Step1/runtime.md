@@ -1,11 +1,10 @@
-                 | doublerAppend | doublerInsert |
-|----------------|-------------------------------|
-|tinyArray       | 83.5 μs       | 30.2 μs       |
-|smallArray      | 119.5 μs      | 50.8 μs       |
-|mediumArray     | 125.7 μs      | 149.7 μs      |
-|largeArray      | 458.2 μs      | 8.2297 ms     |
-|extraLargeArray | 2.9562 ms     | 820.5272 ms   |
-|----------------|-------------------------------|
+| **Array**      | **doublerAppend** | **doublerInsert** |
+|:---------------|:-----------------:|:-----------------:|
+|tinyArray       | 83.5 μs           | 30.2 μs           |
+|smallArray      | 119.5 μs          | 50.8 μs           |
+|mediumArray     | 125.7 μs          | 149.7 μs          |
+|largeArray      | 458.2 μs          | 8.2297 ms         |
+|extraLargeArray | 2.9562 ms         | 820.5272 ms       |
 
 Initial impression:
 
