@@ -16,4 +16,4 @@ console.log(uniqueChars('Moonday'))
 //Similar to the last problem I used a double for loop for this solution and the time complexity will again be O(n ^ 2). 
 //As before, the time complexity of each individual for loop will be O(n) since it depends on the length of arr.  
 
-//Again the space complexity for this function will be O(n) depending upon the length of str.
+//Again the space complexity for this function will be O(n) because it'll depend on the length of str

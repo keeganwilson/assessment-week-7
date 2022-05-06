@@ -12,4 +12,4 @@ console.log(longestWord(['hi', 'hello']))
 //Since this funtion only loops through the array once it will have a time 
 //complexity of O(n) that depends on the length of the array.
 
-//Again the space complexity for this function will be O(n) depending upon the length of arr.
+//Again the space complexity for this function will be O(1).
